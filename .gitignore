@@ -1,0 +1,8 @@
+populations/*
+*.o
+bin/FRED
+src/FRED
+src/DEPENDS
+*~
+\#*
+.results.lck
